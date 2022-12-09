@@ -1,7 +1,6 @@
-inp p q r
+inp s p q
 outp y
-
-a p t d
-a q r s
-i q t
-o d s y
+a p l m
+i s l
+a s q n
+o m n y
