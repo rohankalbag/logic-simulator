@@ -1,4 +1,4 @@
-# Compiled Code Logic Simulator
+# Logic Simulator
 
 ## Course Assignment - EE 677 - Foundations of VLSI CAD
 
